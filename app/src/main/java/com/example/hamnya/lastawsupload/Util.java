@@ -148,5 +148,6 @@ public class Util {
                         + getBytesString(observer.getBytesTotal()));
         map.put("state", observer.getState());
         map.put("percentage", progress + "%");
+        map.put("image", observer.getAbsoluteFilePath());
     }
 }
