@@ -33,33 +33,6 @@
         android:layout_above="@id/pauseCancelAllLayout"
         android:orientation="horizontal" >
 
-        <Button
-            android:id="@+id/buttonPause"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="@string/pause" />
-
-        <Button
-            android:id="@+id/buttonResume"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="@string/resume" />
-
-        <Button
-            android:id="@+id/buttonCancel"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="@string/cancel" />
-
-        <Button
-            android:id="@+id/buttonDelete"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="@string/delete" />
     </LinearLayout>
 
     <LinearLayout

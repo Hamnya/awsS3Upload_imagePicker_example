@@ -4,18 +4,17 @@
     <string name="upload_activity">UploadActivity</string>
 
 
-    <string name="upload">Upload</string>
-    <string name="manage_upload">Manage uploads</string>
-    <string name="upload_file">Upload a file</string>
-    <string name="upload_image">Upload an image</string>
-    <string name="pause">Pause</string>
-    <string name="resume">Resume</string>
-    <string name="cancel">Cancel</string>
-    <string name="delete">Delete</string>
-    <string name="pause_all">Pause all</string>
-    <string name="cancel_all">Cancel all</string>
-    <string name="refreshing">Refreshing</string>
-    <string name="please_wait">Please wait</string>
+    <string name="upload">업로드</string>
+    <string name="manage_upload">업로드 관리</string>
+    <string name="upload_image">이미지 가져오기</string>
+    <string name="pause">멈춤</string>
+    <string name="resume">재개</string>
+    <string name="cancel">취소</string>
+    <string name="delete">삭제</string>
+    <string name="pause_all">모두 멈춤</string>
+    <string name="cancel_all">모두 취소</string>
+    <string name="refreshing">재개하는 중..</string>
+    <string name="please_wait">기다려주세요..</string>
 
 
 </resources>

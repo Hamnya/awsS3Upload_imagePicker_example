@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AwsS3Uploadexample.iml" filepath="$PROJECT_DIR$/AwsS3Uploadexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/awsS3Upload_imagePicker_example.iml" filepath="$PROJECT_DIR$/awsS3Upload_imagePicker_example.iml" />
       <module fileurl="file://C:\Users\85224\AwsS3Uploadexample\lastAwsUpload.iml" filepath="C:\Users\85224\AwsS3Uploadexample\lastAwsUpload.iml" />
     </modules>
   </component>
